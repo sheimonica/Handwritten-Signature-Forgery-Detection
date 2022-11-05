@@ -4,7 +4,7 @@
 ### Anggota Group 3:
 
 - Muhamad Ivan - [LinkedIn](https://www.linkedin.com/in/mivanivan/)
-- Sheila Monica- [LinkedIn](https://www.linkedin.com/in/sheila-monica/)
+- Sheila Monica - [LinkedIn](https://www.linkedin.com/in/sheila-monica/)
 
 ### Dataset Source
 handwritten signatures dari Kaggle Dataset
