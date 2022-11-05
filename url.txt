@@ -1,0 +1,7 @@
+URL Dataset = https://www.kaggle.com/datasets/divyanshrai/handwritten-signatures
+
+URL Deployment = https://model-signature-frontend.herokuapp.com/
+	(Deployment melibatkan directory local oleh karena itu kemungkinan besar tidak berjalan seperti seharusnya)
+
+URL Video = https://drive.google.com/file/d/1hX3b6qhcV-ZYcVj9Q58wsf3RwE5bb1Bb/view?usp=sharing
+

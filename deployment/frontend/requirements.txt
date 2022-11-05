@@ -1,0 +1,6 @@
+requests
+numpy
+streamlit
+tensorflow-cpu
+typing_extensions
+streamlit_option_menu
